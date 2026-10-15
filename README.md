@@ -1,2 +1,2 @@
-# Grading-make-simple-
+# Grading-made-simple-
 Card grader google studio
